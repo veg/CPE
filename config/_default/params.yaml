@@ -12,7 +12,7 @@ custom_css: []
 images: ["/img/social-share.png"]
 
 github:
-  repo_url: "https://github.com/username/repo/blob/master"
+  repo_url: "https://github.com/veg/cpe"
   show_edit_link: true
 
 social_links:
@@ -20,10 +20,10 @@ social_links:
   discord: ""
   facebook: ""
   flickr: ""
-  github: "https://github.com/cncf/dot-org-hugo-theme"
+  github: "https://github.com/veg/CPE/tree/master/content/en"
   instagram: ""
   landscape: ""
-  linkedin: "https://www.linkedin.com/company/cloud-native-computing-foundation"
+  linkedin: ""
   mastodon: ""
   pinterest: ""
   rss: ""
@@ -35,6 +35,6 @@ social_links:
   youtube: ""
 
 # Makes the header sticky on tall screens
-sticky_header: true
+sticky_header: false
 # Enable search in header UI
 show_search: true

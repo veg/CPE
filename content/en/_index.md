@@ -50,10 +50,6 @@ Emergence / Host Adaption<br>
 Within-Host Evolution<br>
 
 {{< /column >}}
-{{< column >}}
-### Accessible & multilingual
-Supports multiple languages out of the box. Aims to comply with WCAG 2.1 standards 🌐 👁️‍🗨️
-{{< /column >}}
 {{< /columns >}}
 
 {{< spacer 20 >}}
