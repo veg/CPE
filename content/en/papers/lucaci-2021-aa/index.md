@@ -1,0 +1,43 @@
+---
+title: 'Extra base hits: Widespread empirical support for instantaneous multiple-nucleotide
+  changes'
+description:
+url: ''
+date: '2021-01-01'
+publishDate: '2025-03-07T18:12:07.658291Z'
+authors:
+- Alexander G Lucaci
+- Sadie R Wisotsky
+- Stephen D Shank
+- Steven Weaver
+- Sergei L Kosakovsky Pond
+publication_types:
+- '2'
+abstract: 'Despite many attempts to introduce evolutionary models that permit substitutions
+  to instantly alter more than one nucleotide in a codon, the prevailing wisdom remains
+  that such changes are rare and generally negligible or are reflective of non-biological
+  artifacts, such as alignment errors. Codon models continue to posit that only single
+  nucleotide change have non-zero rates. Here, we develop and test a simple hierarchy
+  of codon-substitution models with non-zero evolutionary rates for only one-nucleotide
+  (1H), one- and two-nucleotide (2H), or any (3H) codon substitutions. Using over
+  42, 000 empirical alignments, we find widespread statistical support for multiple
+  hits: 61% of alignments prefer models with 2H allowed, and 23%-with 3H allowed.
+  Analyses of simulated data suggest that these results are not likely to be due to
+  simple artifacts such as model misspecification or alignment errors. Further modeling
+  reveals that synonymous codon island jumping among codons encoding serine, especially
+  along short branches, contributes significantly to this 3H signal. While serine
+  codons were prominently involved in multiple-hit substitutions, there were other
+  common exchanges contributing to better model fit. It appears that a small subset
+  of sites in most alignments have unusual evolutionary dynamics not well explained
+  by existing model formalisms, and that commonly estimated quantities, such as dN/dS
+  ratios may be biased by model misspecification. Our findings highlight the need
+  for continued evaluation of assumptions underlying workhorse evolutionary models
+  and subsequent evolutionary inference techniques. We provide a software implementation
+  for evolutionary biologists to assess the potential impact of extra base hits in
+  their data in the HyPhy package and in the Datamonkey.org server.'
+featured: false
+publication: '*PLoS One*'
+doi: 10.1371/journal.pone.0248337
+---
+
+Page content here

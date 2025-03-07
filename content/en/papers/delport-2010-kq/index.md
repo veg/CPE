@@ -1,0 +1,43 @@
+---
+title: 'CodonTest: modeling amino acid substitution preferences in coding sequences'
+description:
+url: ''
+date: '2010-01-01'
+publishDate: '2025-03-07T18:12:16.988928Z'
+authors:
+- Wayne Delport
+- Konrad Scheffler
+- Gordon Botha
+- Mike B Gravenor
+- Spencer V Muse
+- Sergei L Kosakovsky Pond
+publication_types:
+- '2'
+abstract: Codon models of evolution have facilitated the interpretation of selective
+  forces operating on genomes. These models, however, assume a single rate of non-synonymous
+  substitution irrespective of the nature of amino acids being exchanged. Recent developments
+  have shown that models which allow for amino acid pairs to have independent rates
+  of substitution offer improved fit over single rate models. However, these approaches
+  have been limited by the necessity for large alignments in their estimation. An
+  alternative approach is to assume that substitution rates between amino acid pairs
+  can be subdivided into rate classes, dependent on the information content of the
+  alignment. However, given the combinatorially large number of such models, an efficient
+  model search strategy is needed. Here we develop a Genetic Algorithm (GA) method
+  for the estimation of such models. A GA is used to assign amino acid substitution
+  pairs to a series of rate classes, where is estimated from the alignment. Other
+  parameters of the phylogenetic Markov model, including substitution rates, character
+  frequencies and branch lengths are estimated using standard maximum likelihood optimization
+  procedures. We apply the GA to empirical alignments and show improved model fit
+  over existing models of codon evolution. Our results suggest that current models
+  are poor approximations of protein evolution and thus gene and organism specific
+  multi-rate models that incorporate amino acid substitution biases are preferred.
+  We further anticipate that the clustering of amino acid substitution rates into
+  classes will be biologically informative, such that genes with similar functions
+  exhibit similar clustering, and hence this clustering will be useful for the evolutionary
+  fingerprinting of genes.
+featured: false
+publication: '*PLoS Comput Biol*'
+doi: 10.1371/journal.pcbi.1000885
+---
+
+Page content here

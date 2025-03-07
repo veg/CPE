@@ -1,0 +1,58 @@
+---
+title: 'Susceptibility of SARS-CoV-2 Omicron Variants to Therapeutic Monoclonal Antibodies:
+  Systematic Review and Meta-analysis'
+description:
+url: ''
+date: '2022-06-01'
+publishDate: '2025-03-07T18:12:06.006486Z'
+authors:
+- Kaiming Tao
+- Philip L Tzou
+- Sergei L Kosakovsky Pond
+- John P A Ioannidis
+- Robert W Shafer
+publication_types:
+- '2'
+abstract: 'SARS-CoV-2 Omicron variants contain many mutations in its spike receptor-binding
+  domain, the target of all authorized monoclonal antibodies (MAbs). Determining the
+  extent to which Omicron variants reduced MAb susceptibility is critical to preventing
+  and treating COVID-19. We systematically reviewed PubMed and three preprint servers,
+  last updated 11 April 2022, for the in vitro activity of authorized MAbs against
+  the Omicron variants. Fifty-one studies were eligible, including 50 containing Omicron
+  BA.1 susceptibility data and 17 containing Omicron BA.2 susceptibility data. The
+  first two authorized MAb combinations, bamlanivimab/etesevimab and casirivimab/imdevimab,
+  were largely inactive against the Omicron BA.1 and BA.2 variants. In 34 studies,
+  sotrovimab displayed a median 4.0-fold (interquartile range [IQR]: 2.6 to 6.9) reduction
+  in activity against Omicron BA.1, and in 12 studies, it displayed a median 17-fold
+  (IQR: 13 to 30) reduction in activity against Omicron BA.2. In 15 studies, the combination
+  cilgavimab/tixagevimab displayed a median 86-fold (IQR: 27 to 151) reduction in
+  activity against Omicron BA.1, and in six studies, it displayed a median 5.4-fold
+  (IQR: 3.7 to 6.9) reduction in activity against Omicron BA.2. In eight studies against
+  Omicron BA.1 and six studies against Omicron BA.2, bebtelovimab displayed no reduction
+  in activity. Disparate results between assays were common. For authorized MAbs,
+  51/268 (19.0%) results for wild-type control variants and 78/348 (22.4%) results
+  for Omicron BA.1 and BA.2 variants were more than 4-fold below or 4-fold above the
+  median result for that MAb. Highly disparate results between published assays indicate
+  a need for improved MAb susceptibility test standardization or interassay calibration.
+  IMPORTANCE Monoclonal antibodies (MAbs) targeting the SARS-CoV-2 spike protein are
+  among the most effective measures for preventing and treating COVID-19. However,
+  SARS-CoV-2 Omicron variants contain many mutations in their spike receptor-binding
+  domains, the target of all authorized MAbs. Therefore, determining the extent to
+  which Omicron variants reduced MAb susceptibility is critical to preventing and
+  treating COVID-19. We identified 51 studies that reported the in vitro susceptibility
+  of the two main Omicron variants BA.1 and BA.2 to therapeutic MAbs in advanced clinical
+  development, including eight authorized individual MAbs and three authorized MAb
+  combinations. We estimated the degree to which different MAbs displayed reduced
+  activity against Omicron variants. The marked loss of activity of many MAbs against
+  Omicron variants underscores the importance of developing MAbs that target conserved
+  regions of spike. Highly disparate results between assays indicate the need for
+  improved MAb susceptibility test standardization.'
+featured: false
+publication: '*Microbiol Spectr*'
+tags:
+- COVID-19; Omicron variant; SARS-CoV-2; antiviral therapy; monoclonal antibody; multidrug
+  resistance; neutralization; spike protein
+doi: 10.1128/spectrum.00926-22
+---
+
+Page content here

@@ -1,0 +1,49 @@
+---
+title: Molecular modeling and phylogenetic analyses highlight the role of amino acid
+  347 of the N1 subtype neuraminidase in influenza virus host range and interspecies
+  adaptation
+description:
+url: ''
+date: '2023-01-01'
+publishDate: '2025-03-07T18:12:04.568669Z'
+authors:
+- Stefano Elli
+- Giuseppina Raffaini
+- Marco Guerrini
+- Sergei L Kosakovsky Pond
+- Mikhail Matrosovich
+publication_types:
+- '2'
+abstract: The N1 neuraminidases (NAs) of avian and pandemic human influenza viruses
+  contain tyrosine and asparagine, respectively, at position 347 on the rim of the
+  catalytic site; the biological significance of this difference is not clear. Here,
+  we used molecular dynamics simulation to model the effects of amino acid 347 on
+  N1 NA interactions with sialyllacto-N-tetraoses 6'SLN-LC and 3'SLN-LC, which represent
+  NA substrates in humans and birds, respectively. Our analysis predicted that Y347
+  plays an important role in the NA preference for the avian-type substrates. The
+  Y347N substitution facilitates hydrolysis of human-type substrates by resolving
+  steric conflicts of the Neu5Ac2-6Gal moiety with the bulky side chain of Y347, decreasing
+  the free energy of substrate binding, and increasing the solvation of the Neu5Ac2-6Gal
+  bond. Y347 was conserved in all N1 NA sequences of avian influenza viruses in the
+  GISAID EpiFlu database with two exceptions. First, the Y347F substitution was present
+  in the NA of a specific H6N1 poultry virus lineage and was associated with the substitutions
+  G228S and/or E190V/L in the receptor-binding site (RBS) of the hemagglutinin (HA).
+  Second, the highly pathogenic avian H5N1 viruses of the Gs/Gd lineage contained
+  sporadic variants with the NA substitutions Y347H/D, which were frequently associated
+  with substitutions in the HA RBS. The Y347N substitution occurred following the
+  introductions of avian precursors into humans and pigs with N/D347 conserved during
+  virus circulation in these hosts. Comparative evolutionary analysis of site 347
+  revealed episodic positive selection across the entire tree and negative selection
+  within most host-specific groups of viruses, suggesting that substitutions at NA
+  position 347 occurred during host switches and remained under pervasive purifying
+  selection thereafter. Our results elucidate the role of amino acid 347 in NA recognition
+  of sialoglycan substrates and emphasize the significance of substitutions at position
+  347 as a marker of host range and adaptive evolution of influenza viruses.
+featured: false
+publication: '*Front Microbiol*'
+tags:
+- H5N1; MD simulation; influenza; natural selection; neuraminidase; substrate specificity
+doi: 10.3389/fmicb.2023.1309156
+---
+
+Page content here

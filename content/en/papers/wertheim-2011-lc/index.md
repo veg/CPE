@@ -1,0 +1,38 @@
+---
+title: Using HIV transmission networks to investigate community effects in HIV prevention
+  trials
+description:
+url: ''
+date: '2011-01-01'
+publishDate: '2025-03-07T18:12:15.856141Z'
+authors:
+- Joel O Wertheim
+- Sergei L Kosakovsky Pond
+- Susan J Little
+- Victor De Gruttola
+publication_types:
+- '2'
+abstract: Effective population screening of HIV and prevention of HIV transmission
+  are only part of the global fight against AIDS. Community-level effects, for example
+  those aimed at thwarting future transmission, are potential outcomes of treatment
+  and may be important in stemming the epidemic. However, current clinical trial designs
+  are incapable of detecting a reduction in future transmission due to treatment.
+  We took advantage of the fact that HIV is an evolving pathogen whose transmission
+  network can be reconstructed using genetic sequence information to address this
+  shortcoming. Here, we use an HIV transmission network inferred from recently infected
+  men who have sex with men (MSM) in San Diego, California. We developed and tested
+  a network-based statistic for measuring treatment effects using simulated clinical
+  trials on our inferred transmission network. We explored the statistical power of
+  this network-based statistic against conventional efficacy measures and find that
+  when future transmission is reduced, the potential for increased statistical power
+  can be realized. Furthermore, our simulations demonstrate that the network statistic
+  is able to detect community-level effects (e.g., reduction in onward transmission)
+  of HIV treatment in a clinical trial setting. This study demonstrates the potential
+  utility of a network-based statistical metric when investigating HIV treatment options
+  as a method to reduce onward transmission in a clinical trial setting.
+featured: false
+publication: '*PLoS One*'
+doi: 10.1371/journal.pone.0027775
+---
+
+Page content here
