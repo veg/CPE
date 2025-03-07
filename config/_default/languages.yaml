@@ -1,0 +1,50 @@
+en:
+  languageName: English
+  weight: 1
+  ### copyright (markdown can be used) ###
+  copyright: "Copyright &copy; {{< current_year >}} Company Name. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
+  title: "Site Title"
+  params:
+    description: "Site Description"
+    ### accessibility ###
+    accessibility:
+      skip_text: "Skip to content"
+      help_text: "Accessibility Statement"
+      help_url: "/example-page/"
+    ### calls to action ###
+    main_cta:
+      text: "Join"
+      link: "/example-page/"
+    footer_cta:
+      text: "Join us"
+      link: "/example-page/"
+    github_edit: "Edit this page on GitHub"
+  ### example menu showing children ###
+  menu:
+    main:
+    - identifier: "about"
+      name: "About"
+      url: "/example-page/"
+      weight: 1
+    - identifier: "mission"
+      name: "CPE Mission"
+      url: "/mission/"
+      weight: 1
+      #post: "Nulla consequat massa quis enim. Donec pede justo."
+      parent: "about"
+    - identifier: "people"
+      name: "People"
+      url: "/people/"
+      weight: 2
+    - identifier: "tools"
+      name: "Tools"
+      url: "/tools/"
+      weight: 3
+    - identifier: "papers"
+      name: "Papers"
+      url: "/papers/"
+      weight: 4
+    - identifier: "news"
+      name: "News"
+      url: "/news/"
+      weight: 5
